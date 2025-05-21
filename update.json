@@ -1,0 +1,12 @@
+{
+  "launcher_version": "1.0",
+  "games": [
+    {
+      "id": "abyss_explorer",
+      "title": "Abyss Explorer",
+      "version": "1.0",
+      "filename": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/abyss_explorer_v1.0.zip",
+      "exe_name": "Abyss Explorer.exe"
+    }
+  ]
+}

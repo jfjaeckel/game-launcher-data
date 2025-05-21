@@ -4,14 +4,14 @@
     {
       "id": "abyss_explorer",
       "title": "Abyss Explorer",
-      "version": "1.0",
+      "version": "2.0",
       "filename": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/abyss_explorer_v1.0.zip",
       "exe_name": "Abyss Explorer.exe"
     },
     {
       "id": "test_game",
       "title": "Test Game",
-      "version": "1.0",
+      "version": "2.0",
       "filename": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/test_game_v1.0.zip",
       "exe_name": "message.exe"
     }

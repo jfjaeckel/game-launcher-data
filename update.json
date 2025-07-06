@@ -6,7 +6,8 @@
       "title": "Abyss Explorer",
       "version": "1.0",
       "filename": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/abyss_explorer_v1.0.zip",
-      "exe_name": "Abyss Explorer.exe"
+      "exe_name": "Abyss Explorer.exe",
+      "preview_name": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/preview_AE.png"
     },
     {
       "id": "test_game",
@@ -14,6 +15,7 @@
       "version": "1.0",
       "filename": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/test_game_v1.0.zip",
       "exe_name": "message.exe",
+      "preview_name": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/preview_TG.png",
       "dev_only": "true"
     }
   ]

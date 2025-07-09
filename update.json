@@ -15,8 +15,15 @@
       "version": "1.0",
       "filename": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/test_game_v1.0.zip",
       "exe_name": "message.exe",
-      "preview_name": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/preview_test_game.png",
-      "dev_only": "true"
+      "preview_name": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/preview_test_game.png"
+    },
+    {
+      "id": "achievement_game",
+      "title": "Achievement Game",
+      "version": "1.0",
+      "filename": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/achievement_game_v1.0.zip",
+      "exe_name": "achievement_game.exe",
+      "preview_name": "https://github.com/jfjaeckel/game-launcher-data/releases/download/v1.0/preview_achievement_game.png"
     }
   ]
 }
